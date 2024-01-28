@@ -1,0 +1,3 @@
+[submodule "minecraft-server-status"]
+	path = minecraft-server-status
+	url = https://github.com/EntropyGenerator/minecraft-server-status
